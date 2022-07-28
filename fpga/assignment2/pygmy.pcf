@@ -1,0 +1,8 @@
+set_io X	3
+
+set_io A    18
+set_io B	21
+set_io C	23
+set_io D    30
+
+
