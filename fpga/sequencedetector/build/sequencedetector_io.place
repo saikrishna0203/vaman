@@ -1,0 +1,12 @@
+#Block Name x   y   z    pcf_line
+#--------- --  --  -    ----
+$iopadmap$sequencedetector.a  12   3  0  # set_io a         3
+$iopadmap$sequencedetector.b  14   3  0  # set_io b         64
+$iopadmap$sequencedetector.c  16   3  0  # set_io c         62
+$iopadmap$sequencedetector.d  22   3  0  # set_io d         60
+$iopadmap$sequencedetector.e  24   3  0  # set_io e         59
+$iopadmap$sequencedetector.f  26   3  0  # set_io f         57
+$iopadmap$sequencedetector.g  28   3  0  # set_io g         56
+x          16  32  0  # set_io x         31
+$iopadmap$sequencedetector.y  14  32  0  # set_io y         30
+$iopadmap$sequencedetector.clock  22  32  0  # set_io clock       34
